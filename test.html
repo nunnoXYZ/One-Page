@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-GB">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>test</title>
+
+	<script type="text/javascript" src='pjax-standalone.js'></script> 
+	<script type='text/javascript'>
+			//PJAX links!
+		pjax.connect({
+			'url': 'test.php',
+			'container': 'content',
+			'beforeSend': function(){console.log("before send"); getContent(); },
+			'complete': function(){console.log("done!");}
+		});
+
+$(document).ready(function() {
+
+
+
+});
+
+		//pjax.connect('content', 'pjaxer');
+		//pjax.connect('content');
+		
+var getContent = function(){
+ 
+var url = window.location.pathname;
+var path = url.split("/");
+var count = path.length-2;
+var slug = path[count];
+
+if (url == "/") { document.title = "inicio"; } else 
+if (url == "/blog/") { document.title = "blog"; } 
+
+ 
+}
+		
+	</script>
+
+	
+</head>
+<body>
+	<div class='main'>
+		<div class='header'>
+			
+
+		</div>
+		<div class='body'>
+			<div class='nav'>
+				<div class='links'>
+					<a href='.' data-pjax='content'>Home</a>
+					<a href='/pag1/' data-pjax='content'>Page 1</a>
+					<a href='/blog/' data-pjax='content'>Page 2</a>
+					<a href='/pag3/option1/'>Page 3</a>
+				</div>
+			</div>
+			<div id='content'>
+				
+			</div>
+		</div>
+	</div>
+</body>
+</html>

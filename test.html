@@ -11,13 +11,12 @@
 			'url': 'test.php',
 			'container': 'content',
 			'beforeSend': function(){console.log("before send"); getContent(); },
-			'complete': function(){console.log("done!");}
+			'complete': function(){console.log("done!");
+             alert("test action!");
+		    }
 		});
 
 $(document).ready(function() {
-
-
-
 });
 
 		//pjax.connect('content', 'pjaxer');
@@ -36,7 +35,7 @@ if (url == "/blog/") { document.title = "blog"; }
  
 }
 		
-	</script>
+</script>
 
 	
 </head>

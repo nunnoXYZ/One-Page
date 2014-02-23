@@ -1,36 +1,32 @@
 One Page Pjax Proyect<br>
 ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
-
+<br>
+<br>
+<br>
+<br>
+<br>
 
 Información general:<br>
 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
-
-
--
-
-
-
-
--
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 Características:<br>
 ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
-
-
--
-
-
--
-
-
--
-
-
--
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 Un Proyecto desarrollado en colaboracion por:<br>

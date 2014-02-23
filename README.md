@@ -1,8 +1,8 @@
-One Page Pjax Proyect 
+One Page Pjax Proyect<br>
 ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
 
 
-Información general:
+Información general:<br>
 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
 
 
@@ -14,7 +14,7 @@ Información general:
 
 
 
-Características:
+Características:<br>
 ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
 
 
@@ -33,9 +33,8 @@ Características:
 
 
 
-
-▀▄▀▄▀▄ [ Powered by ] ▄▀▄▀▄▀
-
+Un Proyecto desarrollado en colaboracion por:
+▀▄▀▄▀▄▀▄▀▄▀▀▄▀▄▀▄▀▄▀▄▀▀▄▀▄▀▄▀▄▀▄▀▀▄▀▄▀▄▀▄▀▄▀▄▀<br>
 [Desarrolloactivo.com](http://desarrolloactivo.com/)
 
 [UXUID - Desarrollo Web](http://uxuid.co/)

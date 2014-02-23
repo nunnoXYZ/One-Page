@@ -6,7 +6,7 @@
 <br>
 <br>
 
-Información general:<br>
+<strong>Información general:</strong><br>
 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
 <br>
 <br>
@@ -17,7 +17,7 @@ Información general:<br>
 <br>
 <br>
 
-Características:<br>
+<strong>Características:</strong><br>
 ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
 <br>
 <br>
@@ -29,7 +29,7 @@ Características:<br>
 <br>
 
 
-Un Proyecto desarrollado en colaboracion por:<br>
+<strong>Un Proyecto desarrollado en colaboracion por:</strong><br>
 ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀<br>
 [Desarrolloactivo.com](http://desarrolloactivo.com/)
 

@@ -8,9 +8,10 @@ One Page Pjax Proyect
 Características
 ===============
 
-Visite nuestra web en
+En colaboracion de :
 
 [desarrolloactivo.com](http://desarrolloactivo.com/)
+
 [UXUID - Desarrollo Web](http://uxuid.co/)
 
 =======

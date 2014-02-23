@@ -6,12 +6,12 @@ Información general:<br>
 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
 
 
+-
 
 
 
 
-
-
+-
 
 
 Características:<br>
@@ -33,8 +33,8 @@ Características:<br>
 
 
 
-Un Proyecto desarrollado en colaboracion por:
-▀▄▀▄▀▄▀▄▀▄▀▀▄▀▄▀▄▀▄▀▄▀▀▄▀▄▀▄▀▄▀▄▀▀▄▀▄▀▄▀▄▀▄▀▄▀<br>
+Un Proyecto desarrollado en colaboracion por:<br>
+▀▄▀▄▀▄▀▄▀▄▀▀▄▀▄▀▄▀▄▀▄▀▀▄▀▄▀▄▀▄▀▄▀▀▄▀▄▀▄▀▄▀▄▀▄▀
 [Desarrolloactivo.com](http://desarrolloactivo.com/)
 
 [UXUID - Desarrollo Web](http://uxuid.co/)

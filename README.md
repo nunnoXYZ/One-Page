@@ -1,21 +1,41 @@
-<<<<<<< HEAD
-One-Page
-========
-
 One Page Pjax Proyect 
+▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
 
 
-Características
-===============
+Información general:
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
 
-En colaboracion de :
 
-[desarrolloactivo.com](http://desarrolloactivo.com/)
+
+
+
+
+
+
+
+
+Características:
+▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
+
+
+-
+
+
+-
+
+
+-
+
+
+-
+
+
+
+
+
+
+▀▄▀▄▀▄ [ Powered by ] ▄▀▄▀▄▀
+
+[Desarrolloactivo.com](http://desarrolloactivo.com/)
 
 [UXUID - Desarrollo Web](http://uxuid.co/)
-
-=======
-Información general
-
-Esteban Fuster Pozzi
-

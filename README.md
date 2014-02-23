@@ -1,4 +1,4 @@
-One Page Pjax Proyect<br>
+<strong>Informacion sobre One Page Pjax Proyect</strong><br>
 ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
 <br>
 <br>
